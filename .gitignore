@@ -18,3 +18,5 @@ results/plots/
 # OS
 .DS_Store
 EOF
+.env
+.venv/
