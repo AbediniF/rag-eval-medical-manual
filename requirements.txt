@@ -1,1 +1,10 @@
+pypdf
+langchain
+langchain-community
+faiss-cpu
+numpy
+pandas
+tqdm
+python-dotenv
+openai
 
