@@ -1,0 +1,178 @@
+id,question,answer,retrieved_sources,latency_s,correctness,faithfulness,notes
+q01,What is the recommended approach to a patient with upper GI complaints? Summarize the key diagnostic steps.,"The recommended approach to a patient with upper GI complaints involves the following key diagnostic steps:
+
+1. **History**: Use open-ended, interview-style questions to identify the location and quality of symptoms, aggravating and alleviating factors, and psychologic stress factors (page=129, chunk_id=483).
+2. **Physical examination**: Locate tenderness, masses, and blood are essential (page=130, chunk_id=491).
+3. **Red flags**: Be aware of findings that are of particular concern, such as severe abdominal pain, weight loss, or difficulty swallowing (page=121, chunk_id=491).
+
+It's also important to note that:
+
+* Functional illness may not have a physiologic cause and requires a different approach.
+* Patients with functional GI complaints may derive secondary benefits from being sick, and successful treatment of symptoms may lead to development of other symptoms (page=140, chunk_id=529).
+* Physicians should avoid ordering repeated studies or multiple drug trials for patients with inexplicable complaints, and instead wait for new information to direct evaluation and management.","[{""page"": 130, ""chunk_id"": 491}, {""page"": 129, ""chunk_id"": 483}, {""page"": 131, ""chunk_id"": 495}, {""page"": 140, ""chunk_id"": 530}, {""page"": 140, ""chunk_id"": 529}]",33.3,,,
+q02,What is the recommended approach to a patient with lower GI complaints? Summarize key history and workup steps.,"To approach a patient with lower GI complaints, follow these steps:
+
+1. **History**: Use open-ended, interview-style questions to identify the location and quality of symptoms, aggravating and alleviating factors, and psychologic stress factors (page=129, chunk_id=483).
+2. **Red flags**: Be aware of red flag findings that may indicate a serious underlying condition (page=130, chunk_id=491).
+3. **Clinical evaluation**: Perform a thorough clinical examination to locate tenderness, masses, and blood (page=130, chunk_id=491).
+4. **Diagnosis**:
+	* Clinical evaluation is essential (page=140, chunk_id=527).
+	* Endoscopy, esophageal motility studies, or both may be necessary in some cases (page=140, chunk_id=527).
+5. **Treatment**: Behavioral techniques such as relaxation, biofeedback, and training in diaphragmatic breathing may be helpful for motivated patients (page=140, chunk_id=527).
+
+Key points to note:
+
+* Functional symptoms may satisfy certain psychologic needs (page=140, chunk_id=529).
+* Patients with functional GI complaints may have disturbances of motility or nociception (page=141, chunk_id=531).
+* No bodily function is more variable and subject to external influences than defecation (page=141, chunk_id=531).","[{""page"": 140, ""chunk_id"": 529}, {""page"": 141, ""chunk_id"": 531}, {""page"": 129, ""chunk_id"": 483}, {""page"": 130, ""chunk_id"": 491}, {""page"": 140, ""chunk_id"": 527}]",22.524,,,
+q03,List common causes of GI bleeding and describe how the diagnostic approach differs depending on presentation severity.,"**Common causes of GI bleeding:**
+
+1. Upper GI (above the ligament of Treitz): varices, peptic ulcer, Dieulafoy's lesion, arteriovenous malformations, and hemangiomas (page=163, chunk_id=635)
+2. Lower GI: not specified in the provided context
+3. Small bowel: not specified in the provided context
+
+**Diagnostic approach differs depending on presentation severity:**
+
+* For patients with high risk of bleeding (e.g., those with red markings), endoscopy is critical to exclude other causes of acute bleeding, even in patients known to have varices (page=163, chunk_id=635)
+* Laboratory tests include CBC with platelets, PT, PTT, and liver function tests for evaluation of possible coagulopathy (page=163, chunk_id=635)
+
+**Diagnostic approach for specific conditions:**
+
+* Vascular lesions are most commonly diagnosed endoscopically. If routine endoscopy is nondiagnostic, small-bowel endoscopy, capsule endoscopy, intraoperative endoscopy, or visceral angiography may be required (page=165, chunk_id=643)","[{""page"": 159, ""chunk_id"": 615}, {""page"": 159, ""chunk_id"": 616}, {""page"": 163, ""chunk_id"": 635}, {""page"": 1109, ""chunk_id"": 4635}, {""page"": 165, ""chunk_id"": 643}]",21.995,,,
+q04,What are key diagnostic and management considerations for acute abdomen?,"Based on the provided context, key diagnostic and management considerations for acute abdomen include:
+
+1. Sudden, intense, continuous epigastric pain that spreads rapidly throughout the abdomen (page=200, chunk_id=790).
+2. Rebound tenderness is prominent, abdominal muscles are rigid (boardlike), and bowel sounds are diminished or absent (page=200, chunk_id=790).
+3. Diagnosis is confirmed if an x-ray or CT shows free air under the diaphragm or in the peritoneal cavity (page=168, chunk_id=652).
+4. Upright views of the chest and abdomen are preferred, with the lateral x-ray of the chest being the most sensitive view (page=200, chunk_id=790).
+5. Life-threatening causes should always be ruled out before focusing on less serious diagnoses (page=168, chunk_id=652).
+6. In seriously ill patients with severe abdominal pain, expeditious surgical exploration may be the most important diagnostic measure (page=168, chunk_id=652).
+
+Management considerations include:
+
+1. Early consultation with a surgeon (page=168, chunk_id=652).
+2. Judicious use of laboratory and imaging tests to confirm diagnosis (page=168, chunk_id=652).
+3. Watchful waiting may be best for mildly ill patients (page=168, chunk_id=652).
+
+Note: The provided context does not mention specific diagnostic or management considerations for acute abdomen in the elderly or moribund patients, those receiving corticosteroids or immunosuppressants, or those with HIV infection.","[{""page"": 167, ""chunk_id"": 646}, {""page"": 3567, ""chunk_id"": 15229}, {""page"": 200, ""chunk_id"": 790}, {""page"": 168, ""chunk_id"": 652}, {""page"": 2889, ""chunk_id"": 12276}]",27.014,,,
+q05,What are common symptoms and diagnostic approaches for gastritis and peptic ulcer disease?,"**Common symptoms of gastritis and peptic ulcer disease:**
+
+* Dyspepsia (page=194, chunk_id=763)
+* GI bleeding (page=194, chunk_id=763)
+* Hematemesis (vomiting of fresh blood or ""coffee ground"" material) (page=199, chunk_id=788)
+* Passage of bloody stools (hematochezia) or black tarry stools (melena) (page=199, chunk_id=788)
+
+**Diagnostic approaches:**
+
+* Endoscopy can be used to diagnose gastritis and peptic ulcer disease (page=194, chunk_id=763)
+* Biopsies of lesions in the duodenum are generally not warranted due to the low incidence of malignant duodenal ulcers (page=199, chunk_id=787)
+* Serum gastrin levels should be measured in patients with multiple ulcers, ulcers in atypical locations, or refractory symptoms (page=199, chunk_id=787)
+
+**Complications:**
+
+* Hemorrhage is the most common complication of peptic ulcer disease (page=195, chunk_id=811)
+* Symptoms include hematemesis, passage of bloody stools, and weakness caused by blood loss (page=199, chunk_id=788)","[{""page"": 204, ""chunk_id"": 811}, {""page"": 199, ""chunk_id"": 787}, {""page"": 194, ""chunk_id"": 764}, {""page"": 194, ""chunk_id"": 763}, {""page"": 199, ""chunk_id"": 788}]",21.91,,,
+q06,Summarize the diagnostic workup and key tests used for hepatic and biliary disorders.,"The diagnostic workup for hepatic and biliary disorders involves a combination of laboratory tests, imaging tests, and liver biopsy. Key tests used include:
+
+1. Serum aminotransferases (e.g., ALT, AST) to detect hepatocellular injury (page=303, chunk_id=1242)
+2. Bilirubin to assess liver function by evaluating hepatobiliary excretion (page=303, chunk_id=1242)
+3. Alkaline phosphatase to detect impaired bile excretion (cholestasis) (page=303, chunk_id=1242)
+4. Hepatitis serologic tests to detect viral hepatitis, liver inflammation, or altered immunoregulation (page=2965, chunk_id=12601)
+5. Liver biopsy to assess liver tissue and diagnose conditions such as biliary atresia and neonatal hepatitis (page=2965, chunk_id=12601)
+
+Imaging tests used include:
+
+1. Abdominal ultrasound to assess liver size and visualize the gallbladder and common bile duct (page=2965, chunk_id=12601)
+2. Hepatobiliary scan to rule out biliary atresia and determine etiology of cholestasis (page=2965, chunk_id=12601)
+
+The diagnostic workup may also involve assessing clinical features such as ammonia levels, which can increase due to high-protein meals, GI bleeding, hypokalemia, or metabolic alkalosis (page=307, chunk_id=1260).","[{""page"": 303, ""chunk_id"": 1241}, {""page"": 310, ""chunk_id"": 1273}, {""page"": 307, ""chunk_id"": 1260}, {""page"": 303, ""chunk_id"": 1242}, {""page"": 2965, ""chunk_id"": 12601}]",25.109,,,
+q07,What are key clinical features and management principles of hepatitis?,"Based on the provided context, here are the key clinical features and management principles of hepatitis:
+
+**Key Clinical Features:**
+
+* Acute viral hepatitis is characterized by diffuse liver inflammation caused by specific hepatotropic viruses.
+* Symptoms include anorexia, nausea, fever, right upper quadrant pain, and jaundice (page=331, chunk_id=1357).
+* Chronic hepatitis can be asymptomatic, with elevated aminotransferases as the first indication (page=337, chunk_id=1388).
+
+**Management Principles:**
+
+* Diagnosis is by liver function tests, serologic tests to identify the virus, and sometimes biopsy (page=335, chunk_id=1380).
+* Treatment is usually supportive, including avoiding alcohol and following a normal diet and activity level (page=339, chunk_id=1399).
+* Postexposure prophylaxis may be possible using vaccines or serum globulins for specific viruses.
+* Emergency liver transplantation provides the best hope for survival in cases of acute hepatic failure (fulminant hepatitis) (page=337, chunk_id=1388).
+
+**Specific Management Principles:**
+
+* For chronic HBV infection, treatment includes antivirals and prophylaxis for contacts (page=339, chunk_id=1399).
+* For HCV, treatment includes interferons and management of complications such as cirrhosis (page=339, chunk_id=1399).
+* For autoimmune hepatitis, treatment includes corticosteroids and immunosuppressive drugs (page=339, chunk_id=1399).
+
+**Complications:**
+
+* Acute hepatic failure can lead to increasing PT, portal-systemic encephalopathy, and renal failure (page=337, chunk_id=1388).
+* Chronic hepatitis can progress to cirrhosis, liver cancer, or other complications such as ascites and encephalopathy (page=339, chunk_id=1399).","[{""page"": 331, ""chunk_id"": 1357}, {""page"": 333, ""chunk_id"": 1370}, {""page"": 335, ""chunk_id"": 1380}, {""page"": 339, ""chunk_id"": 1399}, {""page"": 337, ""chunk_id"": 1388}]",35.769,,,
+q08,What are important concepts in evaluation and treatment of diabetes mellitus?,"Based on the provided context, important concepts in evaluation and treatment of diabetes mellitus include:
+
+1. Patient education to safely enjoy early adulthood freedoms (page=1024, chunk_id=4252)
+2. Frequent blood sugar monitoring and use of low-dose, fast-acting insulins as needed (page=1024, chunk_id=4252)
+3. Hospitalization for patients with DKA, NKHS, or prolonged or severe hypoglycemia (page=1024, chunk_id=4253)
+4. Brief hospitalization for others with poorly controlled hyperglycemia or acute worsening of diabetic complications (page=1024, chunk_id=4253)
+5. Importance of glucose control during other illnesses that require hospitalization (page=1024, chunk_id=4253)
+6. Monitoring and adjusting dietary intake and insulin to help patients adjust to their condition (page=1017, chunk_id=4214)
+7. Regular monitoring for development of DM symptoms or elevated plasma glucose, with annual or biannual checks recommended (page=1016, chunk_id=4209)
+
+These concepts are essential in the evaluation and treatment of diabetes mellitus to ensure proper management and prevention of complications.","[{""page"": 1024, ""chunk_id"": 4252}, {""page"": 1024, ""chunk_id"": 4253}, {""page"": 1010, ""chunk_id"": 4176}, {""page"": 1017, ""chunk_id"": 4214}, {""page"": 1016, ""chunk_id"": 4209}]",29.359,,,
+q09,"Outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs.","To outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs:
+
+**Initial Evaluation Steps**
+
+1. Evaluate for acute or chronic blood loss through history, examination, and stool test for occult blood (page=1056, chunk_id=4399).
+2. If blood loss is not detected, laboratory testing is done to determine whether anemia is due to deficient RBC production or excessive hemolysis (page=1056, chunk_id=4399).
+
+**Key Labs**
+
+1. For macrocytic anemias: Evaluate serum folate and B12 levels (page=2802, chunk_id=11923).
+2. If hemolysis has been identified, consider direct antiglobulin (Coombs') test to narrow the differential diagnosis (page=1071, chunk_id=4473).
+
+**Additional Steps**
+
+1. Consider risk factors for particular anemias and symptoms that reflect the underlying disorder in the patient's history (page=1056, chunk_id=4399).
+2. If empiric treatment is ineffective or if there is no response to treatment, consultation with a hematologist may be warranted (page=2802, chunk_id=11923).","[{""page"": 1056, ""chunk_id"": 4399}, {""page"": 1057, ""chunk_id"": 4408}, {""page"": 2802, ""chunk_id"": 11923}, {""page"": 1071, ""chunk_id"": 4473}, {""page"": 1079, ""chunk_id"": 4511}]",28.976,,,
+q10,"Summarize the approach to a patient with pulmonary symptoms, including initial history, differential, and key tests.","Here is a summary of the approach to a patient with pulmonary symptoms:
+
+**Initial History**
+
+* Establish whether symptoms are likely to be pulmonary in origin (e.g., dyspnea, chest pain, wheezing)
+* Identify primary symptom and any constitutional symptoms (fever, weight loss, night sweats)
+* Gather information on occupational and environmental exposures
+* Obtain family history, travel history, contact history, previous illnesses, and medication use
+
+**Differential Diagnosis**
+
+* Consider potential causes of interstitial lung disease (ILD) in patients with unexplained ILD
+* Assess systematically the following criteria:
+	+ Symptom duration
+	+ Family history of lung disease
+	+ History of tobacco use
+	+ Current and prior drug use
+	+ Detailed review of home and work environments
+
+**Key Tests**
+
+* Chest x-ray (CXR)
+* High-resolution CT (HRCT) scan
+* Pulmonary function tests (PFTs), including spirometry, lung volumes, and gas exchange measurements
+* Arterial blood gas (ABG) analysis
+* Bronchoscopy (if necessary)
+
+**Additional Testing**
+
+* PFTs can be used to quickly narrow the differential diagnosis and suggest a subsequent strategy of additional testing or therapy.
+* More complicated testing may include measurement of lung volumes, lung, chest wall, and respiratory system compliance, and complete cardiopulmonary exercise testing.
+
+Sources:
+
+(page=2003, chunk_id=8432)
+(page=2111, chunk_id=8906)
+(page=2025, chunk_id=8519)
+(page=2097, chunk_id=8853)","[{""page"": 2003, ""chunk_id"": 8432}, {""page"": 2111, ""chunk_id"": 8906}, {""page"": 2025, ""chunk_id"": 8519}, {""page"": 2022, ""chunk_id"": 8510}, {""page"": 2097, ""chunk_id"": 8853}]",67.358,,,
