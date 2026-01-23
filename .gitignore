@@ -12,8 +12,6 @@ venv/
 # Data / artifacts
 data/raw/*.pdf
 data/raw/*.PDF
-results/*.csv
-results/plots/
 
 # OS
 .DS_Store
