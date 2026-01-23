@@ -49,7 +49,7 @@ Each line is one JSON object:
 ### Experiments
 We compare configurations such as:
 - `chunk_size`: 200 vs 500 vs 1000
-- `top_k`: 3 vs 5 vs 10
+- `TOP_K`: 3 vs 5 vs 10
 - `prompt_template`: A vs B
 - (optional) embedding model variants
 
@@ -57,4 +57,9 @@ Outputs:
 - `results/results.csv` — per-question results and aggregate metrics
 - `notebooks/analysis.ipynb` — plots + error analysis
 
+### Results
+Experiment_1: `TOP_K` Sweep (3 vs 5 vs 10)
 
+- Best tradeoff was `TOP_K=5` with highest correctness and perfect faithfulness
+- Increasing to `TOP_K=10` increased latency and reduced faithfulness without accuracy gain
+- `TOP_K=3` improved latency but reduced answer quality
