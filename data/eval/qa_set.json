@@ -1,13 +1,72 @@
-{"id":"q01","question":"What is the recommended approach to a patient with upper GI complaints? Summarize the key diagnostic steps.","expected_answer":"","source_hint":"Gastrointestinal Disorders — Chapter 7: Approach to the Patient With Upper GI Complaints","tags":["gi","approach","diagnosis"]}
-{"id":"q02","question":"What is the recommended approach to a patient with lower GI complaints? Summarize key history and workup steps.","expected_answer":"","source_hint":"Gastrointestinal Disorders — Chapter 8: Approach to the Patient With Lower GI Complaints","tags":["gi","approach","diagnosis"]}
-{"id":"q03","question":"List common causes of GI bleeding and describe how the diagnostic approach differs depending on presentation severity.","expected_answer":"","source_hint":"Gastrointestinal Disorders — Chapter 10: GI Bleeding","tags":["gi","bleeding","triage"]}
-{"id":"q04","question":"What are key diagnostic and management considerations for acute abdomen?","expected_answer":"","source_hint":"Gastrointestinal Disorders — Chapter 11: Acute Abdomen & Surgical Gastroenterology","tags":["gi","acute","triage"]}
-{"id":"q05","question":"What are common symptoms and diagnostic approaches for gastritis and peptic ulcer disease?","expected_answer":"","source_hint":"Gastrointestinal Disorders — Chapter 13: Gastritis & Peptic Ulcer Disease","tags":["gi","diagnosis"]}
-
-{"id":"q06","question":"Summarize the diagnostic workup and key tests used for hepatic and biliary disorders.","expected_answer":"","source_hint":"Hepatic & Biliary Disorders — Chapter 24: Testing for Hepatic & Biliary Disorders","tags":["liver","tests","diagnosis"]}
-{"id":"q07","question":"What are key clinical features and management principles of hepatitis?","expected_answer":"","source_hint":"Hepatic & Biliary Disorders — Chapter 28: Hepatitis","tags":["liver","hepatitis","treatment"]}
-{"id":"q08","question":"What are important concepts in evaluation and treatment of diabetes mellitus?","expected_answer":"","source_hint":"Endocrine & Metabolic Disorders — Chapter 99: Diabetes Mellitus & Disorders of Carbohydrate Metabolism","tags":["endocrine","diabetes"]}
-
-{"id":"q09","question":"Outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs.","expected_answer":"","source_hint":"Hematology & Oncology — Chapter 104: Approach to the Patient With Anemia","tags":["hematology","anemia","workup"]}
-{"id":"q10","question":"Summarize the approach to a patient with pulmonary symptoms, including initial history, differential, and key tests.","expected_answer":"","source_hint":"Pulmonary Disorders — Chapter 188: Approach to the Patient With Pulmonary Symptoms","tags":["pulmonary","approach","diagnosis"]}
-
+[
+  {
+    "id": "q01",
+    "question": "What is the recommended approach to a patient with upper GI complaints? Summarize the key diagnostic steps.",
+    "expected_answer": "",
+    "source_hint": "Gastrointestinal Disorders — Chapter 7: Approach to the Patient With Upper GI Complaints",
+    "tags": ["gi", "approach", "diagnosis"]
+  },
+  {
+    "id": "q02",
+    "question": "What is the recommended approach to a patient with lower GI complaints? Summarize key history and workup steps.",
+    "expected_answer": "",
+    "source_hint": "Gastrointestinal Disorders — Chapter 8: Approach to the Patient With Lower GI Complaints",
+    "tags": ["gi", "approach", "diagnosis"]
+  },
+  {
+    "id": "q03",
+    "question": "List common causes of GI bleeding and describe how the diagnostic approach differs depending on presentation severity.",
+    "expected_answer": "",
+    "source_hint": "Gastrointestinal Disorders — Chapter 10: GI Bleeding",
+    "tags": ["gi", "bleeding", "triage"]
+  },
+  {
+    "id": "q04",
+    "question": "What are key diagnostic and management considerations for acute abdomen?",
+    "expected_answer": "",
+    "source_hint": "Gastrointestinal Disorders — Chapter 11: Acute Abdomen & Surgical Gastroenterology",
+    "tags": ["gi", "acute", "triage"]
+  },
+  {
+    "id": "q05",
+    "question": "What are common symptoms and diagnostic approaches for gastritis and peptic ulcer disease?",
+    "expected_answer": "",
+    "source_hint": "Gastrointestinal Disorders — Chapter 13: Gastritis & Peptic Ulcer Disease",
+    "tags": ["gi", "diagnosis"]
+  },
+  {
+    "id": "q06",
+    "question": "Summarize the diagnostic workup and key tests used for hepatic and biliary disorders.",
+    "expected_answer": "",
+    "source_hint": "Hepatic & Biliary Disorders — Chapter 24: Testing for Hepatic & Biliary Disorders",
+    "tags": ["liver", "tests", "diagnosis"]
+  },
+  {
+    "id": "q07",
+    "question": "What are key clinical features and management principles of hepatitis?",
+    "expected_answer": "",
+    "source_hint": "Hepatic & Biliary Disorders — Chapter 28: Hepatitis",
+    "tags": ["liver", "hepatitis", "treatment"]
+  },
+  {
+    "id": "q08",
+    "question": "What are important concepts in evaluation and treatment of diabetes mellitus?",
+    "expected_answer": "",
+    "source_hint": "Endocrine & Metabolic Disorders — Chapter 99: Diabetes Mellitus & Disorders of Carbohydrate Metabolism",
+    "tags": ["endocrine", "diabetes"]
+  },
+  {
+    "id": "q09",
+    "question": "Outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs.",
+    "expected_answer": "",
+    "source_hint": "Hematology & Oncology — Chapter 104: Approach to the Patient With Anemia",
+    "tags": ["hematology", "anemia", "workup"]
+  },
+  {
+    "id": "q10",
+    "question": "Summarize the approach to a patient with pulmonary symptoms, including initial history, differential, and key tests.",
+    "expected_answer": "",
+    "source_hint": "Pulmonary Disorders — Chapter 188: Approach to the Patient With Pulmonary Symptoms",
+    "tags": ["pulmonary", "approach", "diagnosis"]
+  }
+]
