@@ -1,0 +1,197 @@
+id,question,expected_answer,source_hint,tags,top_k,answer,retrieved_sources,latency_s,correctness,faithfulness,notes
+q01,What is the recommended approach to a patient with upper GI complaints? Summarize the key diagnostic steps.,,Gastrointestinal Disorders — Chapter 7: Approach to the Patient With Upper GI Complaints,"[""gi"", ""approach"", ""diagnosis""]",10,"Based on the provided context from The Merck Manual of Diagnosis & Therapy, 19th Edition, the recommended approach to a patient with upper GI complaints is as follows:
+
+1. **History**: Use open-ended, interview-style questions to identify the location and quality of symptoms, aggravating and alleviating factors, and psychologic stress factors (page=129, chunk_id=483).
+2. **Physical Examination**: Locate tenderness, masses, and blood are essential (page=130, chunk_id=491).
+3. **Diagnostic Steps**:
+	* Clinical evaluation (page=140, chunk_id=527)
+	* Sometimes endoscopy, esophageal motility studies, or both (page=140, chunk_id=527)
+4. **Treatment**: Physiologic conditions are treated. If the diagnosis of functional CAP is made, frequent examinations and tests should be avoided (page=131, chunk_id=495).
+
+Key diagnostic steps for upper GI complaints include:
+
+* Clinical evaluation
+* Endoscopy or esophageal motility studies to exclude disorders causing mechanical obstruction or Zenker's diverticulum
+
+Note that the context does not provide a comprehensive list of diagnostic steps, but rather highlights the importance of clinical evaluation and sometimes additional tests.","[{""page"": 130, ""chunk_id"": 491}, {""page"": 129, ""chunk_id"": 483}, {""page"": 131, ""chunk_id"": 495}, {""page"": 140, ""chunk_id"": 530}, {""page"": 140, ""chunk_id"": 529}, {""page"": 141, ""chunk_id"": 531}, {""page"": 37, ""chunk_id"": 151}, {""page"": 146, ""chunk_id"": 560}, {""page"": 140, ""chunk_id"": 527}, {""page"": 436, ""chunk_id"": 1820}]",41.617,3,1,
+q02,What is the recommended approach to a patient with lower GI complaints? Summarize key history and workup steps.,,Gastrointestinal Disorders — Chapter 8: Approach to the Patient With Lower GI Complaints,"[""gi"", ""approach"", ""diagnosis""]",10,"**Recommended approach to a patient with lower GI complaints:**
+
+1. **History:** Use open-ended, interview-style questions to identify the location and quality of symptoms, aggravating and alleviating factors, and psychologic stress factors (page=129, chunk_id=483).
+2. **Physical examination:** Perform a thorough physical examination, including palpation of the abdomen for tenderness, masses, and blood (page=146, chunk_id=560).
+3. **Red flags:** Be aware of red flag findings that may indicate serious illness, such as rectal pain or bleeding (page=130, chunk_id=491).
+4. **Clinical evaluation:** Perform a clinical evaluation to identify any underlying physiologic disease (page=140, chunk_id=527).
+5. **Diagnostic tests:** Consider endoscopy, esophageal motility studies, or other diagnostic tests as needed (page=140, chunk_id=527).
+
+**Key history and workup steps:**
+
+1. Identify the location and quality of symptoms.
+2. Ask about aggravating and alleviating factors.
+3. Specifically seek psychologic stress factors.
+4. Perform a thorough physical examination, including palpation of the abdomen.
+5. Consider diagnostic tests as needed.
+
+Note: The recommended approach is similar to that for upper GI complaints (page=129, chunk_id=483).","[{""page"": 140, ""chunk_id"": 529}, {""page"": 141, ""chunk_id"": 531}, {""page"": 129, ""chunk_id"": 483}, {""page"": 130, ""chunk_id"": 491}, {""page"": 140, ""chunk_id"": 527}, {""page"": 131, ""chunk_id"": 495}, {""page"": 140, ""chunk_id"": 530}, {""page"": 140, ""chunk_id"": 528}, {""page"": 37, ""chunk_id"": 151}, {""page"": 146, ""chunk_id"": 560}]",40.81,3,1,
+q03,List common causes of GI bleeding and describe how the diagnostic approach differs depending on presentation severity.,,Gastrointestinal Disorders — Chapter 10: GI Bleeding,"[""gi"", ""bleeding"", ""triage""]",10,"**Common causes of GI bleeding:**
+
+* Upper GI (above the ligament of Treitz): varices, peptic ulcer, Dieulafoy's lesion, arteriovenous malformations, and hemangiomas
+* Lower GI: hemorrhoids, diverticulosis, angiodysplasia, and neoplasms
+* Small bowel: bleeding from small bowel lesions or tumors (page=159, chunk_id=615)
+
+**Diagnostic approach differs depending on presentation severity:**
+
+* For patients with severe bleeding:
+	+ Stabilization with airway management, IV fluids, or transfusions is essential before and during diagnostic evaluation (page=159, chunk_id=613)
+	+ Nasogastric aspiration and lavage should be done in all patients with suspected upper GI bleeding (page=161, chunk_id=622)
+	+ Upper endoscopy should be done rapidly for significant bleeding but may be deferred for 24 h if bleeding stops or is minimal (page=161, chunk_id=623)
+* For patients with mild bleeding:
+	+ History and physical examination are essential to determine the bleeding sites, amount, and duration of bleeding (page=1109, chunk_id=4635)
+	+ Laboratory tests include CBC with platelets, PT, PTT, and liver function tests for patients with a high risk of bleeding (page=163, chunk_id=635)
+
+**Diagnostic procedures:**
+
+* Endoscopy is critical to exclude other causes of acute bleeding, even in patients known to have varices (page=163, chunk_id=635)
+* Angiography should be considered if endoscopy is nondiagnostic or if there is a high risk of bleeding (page=165, chunk_id=643)
+
+**Treatment:**
+
+* Secure airway if needed
+* IV fluid resuscitation
+* Blood transfusion if needed (page=161, chunk_id=623)","[{""page"": 159, ""chunk_id"": 615}, {""page"": 159, ""chunk_id"": 616}, {""page"": 163, ""chunk_id"": 635}, {""page"": 1109, ""chunk_id"": 4635}, {""page"": 165, ""chunk_id"": 643}, {""page"": 161, ""chunk_id"": 622}, {""page"": 159, ""chunk_id"": 613}, {""page"": 161, ""chunk_id"": 625}, {""page"": 161, ""chunk_id"": 623}, {""page"": 565, ""chunk_id"": 2339}]",48.534,2,1,
+q04,What are key diagnostic and management considerations for acute abdomen?,,Gastrointestinal Disorders — Chapter 11: Acute Abdomen & Surgical Gastroenterology,"[""gi"", ""acute"", ""triage""]",10,I don't know based on the provided document.,"[{""page"": 167, ""chunk_id"": 646}, {""page"": 3567, ""chunk_id"": 15229}, {""page"": 200, ""chunk_id"": 790}, {""page"": 168, ""chunk_id"": 652}, {""page"": 2889, ""chunk_id"": 12276}, {""page"": 172, ""chunk_id"": 671}, {""page"": 173, ""chunk_id"": 676}, {""page"": 242, ""chunk_id"": 981}, {""page"": 172, ""chunk_id"": 669}, {""page"": 130, ""chunk_id"": 490}]",16.948,0,0,
+q05,What are common symptoms and diagnostic approaches for gastritis and peptic ulcer disease?,,Gastrointestinal Disorders — Chapter 13: Gastritis & Peptic Ulcer Disease,"[""gi"", ""diagnosis""]",10,"**Common symptoms of gastritis and peptic ulcer disease:**
+
+* Gastritis:
+	+ Many cases are asymptomatic (page=194, chunk_id=763)
+	+ Dyspepsia and GI bleeding sometimes occur (page=194, chunk_id=763)
+* Peptic Ulcer Disease:
+	+ Burning epigastric pain that is often relieved by food (page=198, chunk_id=782)
+	+ Pain can be localized to the epigastrium or high substernal region (page=188, chunk_id=737)
+
+**Diagnostic approaches:**
+
+* Gastritis:
+	+ Diagnosis is by endoscopy (page=194, chunk_id=763)
+	+ Endoscopy allows for biopsy of abnormal areas (page=188, chunk_id=737)
+* Peptic Ulcer Disease:
+	+ Diagnosis is by endoscopy and testing for H. pylori (page=198, chunk_id=782)
+	+ Endoscopy allows for biopsy or cytologic brushing of gastric and esophageal lesions (page=199, chunk_id=786)
+
+**Complications:**
+
+* Hemorrhage:
+	+ Mild to severe hemorrhage is the most common complication of peptic ulcer disease (page=195, chunk_id=811)
+	+ Symptoms include hematemesis, passage of bloody stools or black tarry stools, and weakness (page=199, chunk_id=788)
+
+**Other:**
+
+* Stomach cancer may manifest with similar symptoms and must be excluded, especially in patients > 45 (page=199, chunk_id=787)
+* Zollinger-Ellison syndrome should be considered when there are multiple ulcers or ulcers develop in atypical locations (page=199, chunk_id=787)","[{""page"": 204, ""chunk_id"": 811}, {""page"": 199, ""chunk_id"": 787}, {""page"": 194, ""chunk_id"": 764}, {""page"": 194, ""chunk_id"": 763}, {""page"": 199, ""chunk_id"": 788}, {""page"": 200, ""chunk_id"": 794}, {""page"": 188, ""chunk_id"": 737}, {""page"": 199, ""chunk_id"": 785}, {""page"": 199, ""chunk_id"": 786}, {""page"": 198, ""chunk_id"": 782}]",46.763,1,1,
+q06,Summarize the diagnostic workup and key tests used for hepatic and biliary disorders.,,Hepatic & Biliary Disorders — Chapter 24: Testing for Hepatic & Biliary Disorders,"[""liver"", ""tests"", ""diagnosis""]",10,"The diagnostic workup for hepatic and biliary disorders involves a combination of laboratory tests, imaging studies, and liver biopsy. The key tests used include:
+
+1. Laboratory Tests:
+	* Serum aminotransferases (e.g., ALT, AST) to detect hepatocellular injury (page=303, chunk_id=1242)
+	* Bilirubin to assess liver function and excretion (page=303, chunk_id=1242)
+	* Alkaline phosphatase to evaluate bile excretion (page=303, chunk_id=1242)
+	* Albumin to assess synthetic capability (page=303, chunk_id=1242)
+	* PT and PTT to evaluate coagulation function (page=307, chunk_id=1260)
+2. Imaging Studies:
+	* Ultrasonography to screen for biliary tract abnormalities, evaluate the hepatobiliary tract, and detect liver masses (page=309, chunk_id=1267)
+	* CT or MRI to detect extrahepatic obstruction, cholangitis, or pancreatic lesions (page=294, chunk_id=1200)
+3. Liver Biopsy:
+	* Performed when diagnosis remains unclear after laboratory tests and imaging studies (page=2965, chunk_id=12600)
+
+The diagnostic approach for specific conditions includes:
+
+* Cholestasis: confirmed by an elevation in both total and direct bilirubin, followed by testing to determine etiology (page=2965, chunk_id=12601)
+* Biliary atresia: diagnosed by hepatobiliary scan and liver biopsy (page=2965, chunk_id=12600)
+* Primary biliary cirrhosis: characterized by a positive antimitochondrial antibody test (page=367, chunk_id=1514)
+
+The prognosis of serious complications is worse in older adults, who are less able to recover from severe physiologic stresses and to tolerate toxic accumulations (page=285, chunk_id=1165).","[{""page"": 303, ""chunk_id"": 1241}, {""page"": 310, ""chunk_id"": 1273}, {""page"": 307, ""chunk_id"": 1260}, {""page"": 303, ""chunk_id"": 1242}, {""page"": 2965, ""chunk_id"": 12601}, {""page"": 2965, ""chunk_id"": 12600}, {""page"": 309, ""chunk_id"": 1267}, {""page"": 367, ""chunk_id"": 1514}, {""page"": 285, ""chunk_id"": 1165}, {""page"": 294, ""chunk_id"": 1200}]",51.449,3,1,
+q07,What are key clinical features and management principles of hepatitis?,,Hepatic & Biliary Disorders — Chapter 28: Hepatitis,"[""liver"", ""hepatitis"", ""treatment""]",10,"I'll answer your question based on the provided context.
+
+What are key clinical features and management principles of hepatitis?
+
+**Key Clinical Features:**
+
+* Acute viral hepatitis is characterized by diffuse liver inflammation caused by specific hepatotropic viruses (page=331, chunk_id=1357).
+* Symptoms include anorexia, nausea, fever, right upper quadrant pain, and jaundice (page=331, chunk_id=1357).
+* Chronic hepatitis is defined as hepatitis lasting > 6 mo, with common causes including hepatitis B and C viruses, autoimmune mechanisms, and drugs (page=337, chunk_id=1389).
+
+**Management Principles:**
+
+* Supportive care is the primary treatment for acute viral hepatitis (page=335, chunk_id=1380).
+* Postexposure prophylaxis may be possible using vaccines or serum globulins depending on the specific virus (page=331, chunk_id=1357).
+* Treatment of chronic hepatitis includes management of complications and treatment of the underlying condition (e.g., corticosteroids for autoimmune hepatitis, antiviral therapy for viral hepatitis) (page=337, chunk_id=1389).
+
+**Prognosis:**
+
+* Prognosis is highly variable depending on the cause of hepatitis (page=339, chunk_id=1398).
+* Chronic hepatitis caused by a drug often regresses completely when the offending drug is withdrawn.
+* Without treatment, cases caused by HBV can resolve, progress rapidly, or progress slowly to cirrhosis over decades.
+
+**Prevention:**
+
+* Good personal hygiene helps prevent transmission of viral hepatitis (page=336, chunk_id=1382).
+* Barrier protection and posttransfusion screening are recommended to minimize the risk of infection.
+* Immunoprophylaxis can involve active immunization using vaccines and passive immunization.","[{""page"": 331, ""chunk_id"": 1357}, {""page"": 333, ""chunk_id"": 1370}, {""page"": 335, ""chunk_id"": 1380}, {""page"": 339, ""chunk_id"": 1399}, {""page"": 337, ""chunk_id"": 1388}, {""page"": 337, ""chunk_id"": 1389}, {""page"": 293, ""chunk_id"": 1199}, {""page"": 339, ""chunk_id"": 1398}, {""page"": 334, ""chunk_id"": 1374}, {""page"": 336, ""chunk_id"": 1382}]",57.726,3,1,
+q08,What are important concepts in evaluation and treatment of diabetes mellitus?,,Endocrine & Metabolic Disorders — Chapter 99: Diabetes Mellitus & Disorders of Carbohydrate Metabolism,"[""endocrine"", ""diabetes""]",10,"Important concepts in evaluation and treatment of diabetes mellitus include:
+
+* Patient education about causes of DM, diet, exercise, drugs, self-monitoring with fingerstick testing, and the symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications (page=1017, chunk_id=4210)
+* Adjusting diet to individual circumstances can help patients control fluctuations in their glucose level and, for patients with type 2 DM, lose weight (page=1017, chunk_id=4210)
+* Monitoring of blood sugar levels is crucial, and many different monitoring devices are available (page=1017, chunk_id=4214)
+* Lifestyle changes, such as diet and exercise, can help prevent diabetes mellitus (page=1016, chunk_id=4209)
+* Regular follow-up visits with a healthcare provider are important for patients with diabetes mellitus (page=1016, chunk_id=4209)
+* Hospitalization may be necessary for patients with severe hyperglycemia or diabetic ketoacidosis (page=1024, chunk_id=4252 and page=1024, chunk_id=4253)
+
+These concepts are all mentioned in the provided context as being important for the evaluation and treatment of diabetes mellitus.","[{""page"": 1024, ""chunk_id"": 4252}, {""page"": 1024, ""chunk_id"": 4253}, {""page"": 1010, ""chunk_id"": 4176}, {""page"": 1017, ""chunk_id"": 4214}, {""page"": 1016, ""chunk_id"": 4209}, {""page"": 1017, ""chunk_id"": 4210}, {""page"": 1023, ""chunk_id"": 4248}, {""page"": 1747, ""chunk_id"": 7343}, {""page"": 1024, ""chunk_id"": 4254}, {""page"": 1020, ""chunk_id"": 4232}]",38.739,0,1,
+q09,"Outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs.",,Hematology & Oncology — Chapter 104: Approach to the Patient With Anemia,"[""hematology"", ""anemia"", ""workup""]",10,"**Initial Evaluation Steps:**
+
+1. History: Address risk factors for particular anemias, symptoms of anemia itself, and symptoms that reflect the underlying disorder (page=1056, chunk_id=4399).
+2. Physical Examination: Complete physical examination is necessary to identify signs of anemia and underlying disorders (page=1056, chunk_id=4401).
+
+**Key Labs:**
+
+1. Stool test for occult blood to detect acute or chronic blood loss (page=1056, chunk_id=4399).
+2. Serum folate and B12 levels for macrocytic anemias (page=2802, chunk_id=11923).
+3. Direct antiglobulin (Coombs') test for hemolytic anemias (page=1071, chunk_id=4473).
+4. Hemoglobin electrophoresis to diagnose hemoglobinopathies (page=2802, chunk_id=11923).
+
+**Indications for Transfusion:**
+
+1. Severe constitutional symptoms (e.g., light-headedness, weakness, fatigue) or cardiopulmonary symptoms or signs (e.g., dyspnea, tachycardia, tachypnea) are present (page=1058, chunk_id=4411).
+
+**Other Considerations:**
+
+1. Patients with microcytic anemias typically require testing of iron stores (page=946).
+2. Normocytic anemias result from primary bone marrow failure and are usually characterized by a normal RBC distribution width (RDW) and normochromic indices (page=1059, chunk_id=4413).","[{""page"": 1056, ""chunk_id"": 4399}, {""page"": 1057, ""chunk_id"": 4408}, {""page"": 2802, ""chunk_id"": 11923}, {""page"": 1071, ""chunk_id"": 4473}, {""page"": 1079, ""chunk_id"": 4511}, {""page"": 1058, ""chunk_id"": 4411}, {""page"": 1056, ""chunk_id"": 4401}, {""page"": 1059, ""chunk_id"": 4413}, {""page"": 1184, ""chunk_id"": 4943}, {""page"": 1062, ""chunk_id"": 4427}]",44.11,2,1,
+q10,"Summarize the approach to a patient with pulmonary symptoms, including initial history, differential, and key tests.",,Pulmonary Disorders — Chapter 188: Approach to the Patient With Pulmonary Symptoms,"[""pulmonary"", ""approach"", ""diagnosis""]",10,"**Approach to a Patient with Pulmonary Symptoms**
+
+1. **History**: Establish whether symptoms are likely to be pulmonary in origin. Focus on primary symptom and presence of constitutional symptoms (fever, weight loss, night sweats). Obtain information on occupational and environmental exposures, family history, travel history, contact history, previous illnesses, and use of medications.
+2. **Differential Diagnosis**:
+	* Pulmonary disorders: interstitial lung disease, asthma, COPD, heart failure
+	* Non-pulmonary causes: pneumonia, pulmonary embolism, cardiac conditions (e.g., atherosclerotic or congenital heart disease)
+3. **Key Tests**:
+	* Chest x-ray
+	* High-resolution CT (HRCT)
+	* Pulmonary function tests (spirometry, lung volumes, gas exchange)
+	* ABG analysis
+	* Bronchoscopy
+
+**Initial Evaluation**
+
+1. Review vital signs for fever, tachycardia, tachypnea, and low O2 saturation.
+2. Note any signs of respiratory distress (accessory muscle use, intercostal retractions, pursed lip breathing, agitation, cyanosis, decreased level of consciousness).
+3. Perform a full lung examination, including adequacy of air entry and exit, symmetry of breath sounds, presence of crackles, rhonchi, stridor, and wheezing.
+4. Inspect and palpate the cervical and supraclavicular areas for lymphadenopathy (suggesting cancer or TB).
+5. Note any signs of consolidation (e.g., egophony, dullness to percussion).
+
+**Further Evaluation**
+
+1. Based on history and physical examination, select additional tests to narrow differential diagnosis.
+2. Consider testing for pulmonary embolism (D-dimer, ventilation/perfusion scanning, CT angiography) if indicated.
+
+Sources:
+
+* The Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 188. Approach to the Patient With Pulmonary Symptoms (page=2003, chunk_id=8432)
+* The Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 196. Pneumonia (page=2097, chunk_id=8853)
+* The Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 189. Tests of Pulmonary Function (page=2025, chunk_id=8519)","[{""page"": 2003, ""chunk_id"": 8432}, {""page"": 2111, ""chunk_id"": 8906}, {""page"": 2025, ""chunk_id"": 8519}, {""page"": 2022, ""chunk_id"": 8510}, {""page"": 2097, ""chunk_id"": 8853}, {""page"": 2023, ""chunk_id"": 8511}, {""page"": 2012, ""chunk_id"": 8471}, {""page"": 2406, ""chunk_id"": 10255}, {""page"": 2025, ""chunk_id"": 8520}, {""page"": 2014, ""chunk_id"": 8477}]",59.274,3,1,

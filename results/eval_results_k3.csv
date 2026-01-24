@@ -1,0 +1,167 @@
+id,question,expected_answer,source_hint,tags,top_k,answer,retrieved_sources,latency_s,correctness,faithfulness,notes
+q01,What is the recommended approach to a patient with upper GI complaints? Summarize the key diagnostic steps.,,Gastrointestinal Disorders — Chapter 7: Approach to the Patient With Upper GI Complaints,"[""gi"", ""approach"", ""diagnosis""]",3,"Based on the provided context, the recommended approach to a patient with upper GI complaints involves:
+
+1. Taking a thorough history using open-ended, interview-style questions to identify the location and quality of symptoms, aggravating and alleviating factors, and psychologic stress factors (page=129, chunk_id=483).
+2. Locating tenderness, masses, and blood are essential (page=130, chunk_id=491).
+3. Recording the results obtained during the examination, which may reveal inappropriate behavior patterns or exaggerated responses to pain (page=131, chunk_id=495).
+
+The key diagnostic steps include:
+
+1. Identifying red flags, such as specific findings that indicate a more serious condition (page=130, chunk_id=491).
+2. Distinguishing between physiologic and functional illness (page=129, chunk_id=483).
+3. Avoiding frequent examinations and tests if the diagnosis of functional CAP is made, to prevent focusing on or magnifying physical complaints (page=131, chunk_id=495).
+
+Sources:
+(page=130, chunk_id=491)
+(page=129, chunk_id=483)
+(page=131, chunk_id=495)","[{""page"": 130, ""chunk_id"": 491}, {""page"": 129, ""chunk_id"": 483}, {""page"": 131, ""chunk_id"": 495}]",18.778,2,1,
+q02,What is the recommended approach to a patient with lower GI complaints? Summarize key history and workup steps.,,Gastrointestinal Disorders — Chapter 8: Approach to the Patient With Lower GI Complaints,"[""gi"", ""approach"", ""diagnosis""]",3,"The recommended approach to a patient with lower GI complaints involves:
+
+1. Using open-ended, interview-style questions to identify the location and quality of symptoms (page=141, chunk_id=531).
+2. Inquiring about aggravating and alleviating factors, as well as psychologic stress factors (page=141, chunk_id=531).
+3. Avoiding ordering repeated studies or multiple drug trials for patients with inexplicable complaints (page=140, chunk_id=529).
+4. Considering the possibility of functional symptoms, which may be present in patients with physiologic disease (page=140, chunk_id=529).
+
+Key history and workup steps include:
+
+1. Identifying the location and quality of symptoms.
+2. Inquiring about aggravating and alleviating factors.
+3. Assessing psychologic stress factors.
+4. Considering the possibility of functional symptoms.
+
+Note: The approach to patients with lower GI complaints is similar to that for upper GI complaints, as described in Chapter 7 (page=129, chunk_id=483).","[{""page"": 140, ""chunk_id"": 529}, {""page"": 141, ""chunk_id"": 531}, {""page"": 129, ""chunk_id"": 483}]",19.54,2,1,
+q03,List common causes of GI bleeding and describe how the diagnostic approach differs depending on presentation severity.,,Gastrointestinal Disorders — Chapter 10: GI Bleeding,"[""gi"", ""bleeding"", ""triage""]",3,"**Common causes of GI bleeding:**
+
+* Upper GI (above the ligament of Treitz): 
+	+ Peptic ulcer (page=163, chunk_id=635)
+	+ Varices (page=163, chunk_id=635)
+* Lower GI:
+	+ Not specified in provided context
+* Small bowel:
+	+ Not specified in provided context
+
+**Diagnostic approach differs depending on presentation severity:**
+
+* High-risk patients (e.g., those with red markings) require endoscopy to exclude other causes of acute bleeding (page=163, chunk_id=635)
+* Evaluation for possible coagulopathy is important in patients with varices, including laboratory tests such as CBC with platelets, PT, PTT, and liver function tests (page=163, chunk_id=635)","[{""page"": 159, ""chunk_id"": 615}, {""page"": 159, ""chunk_id"": 616}, {""page"": 163, ""chunk_id"": 635}]",16.846,2,1,
+q04,What are key diagnostic and management considerations for acute abdomen?,,Gastrointestinal Disorders — Chapter 11: Acute Abdomen & Surgical Gastroenterology,"[""gi"", ""acute"", ""triage""]",3,"I'll answer your question based on the provided context.
+
+What are key diagnostic and management considerations for acute abdomen?
+
+According to the context, key diagnostic considerations include:
+
+* Sudden, intense, continuous epigastric pain that spreads rapidly throughout the abdomen (page=200, chunk_id=790)
+* Rebound tenderness is prominent (page=200, chunk_id=790)
+* Abdominal muscles are rigid (boardlike) (page=200, chunk_id=790)
+* Diminished or absent bowel sounds (page=200, chunk_id=790)
+
+Key management considerations include:
+
+* Swift attention to acute abdominal pain, as gangrene and perforation of the gut can occur < 6 h from onset of symptoms in certain conditions (page=167, chunk_id=646)
+* Consideration for surgery in patients with intra-abdominal disease (page=167, chunk_id=646)
+
+Note that the context does not provide detailed information on specific diagnostic tests or treatments.","[{""page"": 167, ""chunk_id"": 646}, {""page"": 3567, ""chunk_id"": 15229}, {""page"": 200, ""chunk_id"": 790}]",20.249,1,1,
+q05,What are common symptoms and diagnostic approaches for gastritis and peptic ulcer disease?,,Gastrointestinal Disorders — Chapter 13: Gastritis & Peptic Ulcer Disease,"[""gi"", ""diagnosis""]",3,"**Common symptoms for gastritis and peptic ulcer disease:**
+
+* Hematemesis (vomiting of fresh blood or ""coffee ground"" material) (page=199, chunk_id=787)
+* Passage of bloody stools (page=199, chunk_id=787)
+* Abdominal discomfort (page=194, chunk_id=764)
+
+**Diagnostic approaches for gastritis and peptic ulcer disease:**
+
+* Endoscopy to diagnose H. pylori infection (page=199, chunk_id=787) and erosive gastritis (page=194, chunk_id=764)
+* Biopsy of lesions in the duodenum is generally not warranted due to low incidence of malignant ulcers (page=199, chunk_id=787)
+* Measurement of serum gastrin levels for patients with multiple ulcers, ulcers in atypical locations, or refractory symptoms (page=199, chunk_id=787)
+
+**Note:** The provided context does not explicitly state the diagnostic approaches for chronic gastritis.","[{""page"": 204, ""chunk_id"": 811}, {""page"": 199, ""chunk_id"": 787}, {""page"": 194, ""chunk_id"": 764}]",20.843,0,1,
+q06,Summarize the diagnostic workup and key tests used for hepatic and biliary disorders.,,Hepatic & Biliary Disorders — Chapter 24: Testing for Hepatic & Biliary Disorders,"[""liver"", ""tests"", ""diagnosis""]",3,"The diagnostic workup and key tests used for hepatic and biliary disorders include:
+
+1. Laboratory tests to detect hepatic dysfunction, assess the severity of liver injury, monitor disease progression, and refine diagnosis (page=303, chunk_id=1241).
+2. Liver biochemistry tests, which often have limited sensitivity and specificity but can be combined with other tests for a more accurate diagnosis (page=303, chunk_id=1241).
+3. Excretory performance tests to assess liver function (page=303, chunk_id=1241).
+
+Key laboratory tests include:
+
+* Liver function tests (LFTs) to detect hepatic dysfunction and monitor disease progression (page=303, chunk_id=1241).
+* Tests of ammonia levels, which can be increased by high-protein meals, GI bleeding, hypokalemia, or metabolic alkalosis (page=307, chunk_id=1260).
+
+Imaging tests and liver biopsy may also be used in the diagnostic workup for hepatic and biliary disorders.","[{""page"": 303, ""chunk_id"": 1241}, {""page"": 310, ""chunk_id"": 1273}, {""page"": 307, ""chunk_id"": 1260}]",18.946,3,1,
+q07,What are key clinical features and management principles of hepatitis?,,Hepatic & Biliary Disorders — Chapter 28: Hepatitis,"[""liver"", ""hepatitis"", ""treatment""]",3,"Based on the provided context, here are the key clinical features and management principles of hepatitis:
+
+**Key Clinical Features:**
+
+* Nonspecific viral prodrome (page=331, chunk_id=1357)
+* Anorexia, nausea, fever, right upper quadrant pain, and jaundice (page=331, chunk_id=1357)
+* Elevated liver function tests (AST and ALT) and hyperbilirubinemia (page=333, chunk_id=1370)
+
+**Management Principles:**
+
+* Supportive care is the primary treatment for acute viral hepatitis (page=335, chunk_id=1380)
+* Postexposure prophylaxis may be possible using vaccines or serum globulins (page=331, chunk_id=1357)
+* Good hygiene can prevent acute viral hepatitis (page=331, chunk_id=1357)
+* Avoidance of alcohol to prevent increased liver damage (page=335, chunk_id=1380)
+
+Note: The context does not provide information on specific treatments for chronic hepatitis or exacerbation in chronic HBV carriers.","[{""page"": 331, ""chunk_id"": 1357}, {""page"": 333, ""chunk_id"": 1370}, {""page"": 335, ""chunk_id"": 1380}]",21.158,2,1,
+q08,What are important concepts in evaluation and treatment of diabetes mellitus?,,Endocrine & Metabolic Disorders — Chapter 99: Diabetes Mellitus & Disorders of Carbohydrate Metabolism,"[""endocrine"", ""diabetes""]",3,"Based on the provided context, important concepts in evaluation and treatment of diabetes mellitus include:
+
+* Importance of patient education for safe management of diabetes (page=1024, chunk_id=4252)
+* Need for frequent blood sugar monitoring and use of low-dose, fast-acting insulins as needed (page=1024, chunk_id=4252)
+* Hospitalization for patients with DKA, NKHS, or prolonged or severe hypoglycemia (page=1024, chunk_id=4253)
+* Brief hospitalization may be beneficial for patients with poorly controlled hyperglycemia or acute worsening of diabetic complications (page=1024, chunk_id=4253)
+* Importance of glucose control in managing other illnesses that require hospitalization (page=1024, chunk_id=4253)
+
+Additionally, the context mentions the two main categories of DM: type 1 and type 2, which can be distinguished by a combination of features (page=1010, chunk_id=4176).","[{""page"": 1024, ""chunk_id"": 4252}, {""page"": 1024, ""chunk_id"": 4253}, {""page"": 1010, ""chunk_id"": 4176}]",20.718,0,1,
+q09,"Outline the clinical approach to a patient with anemia, including initial evaluation steps and key labs.",,Hematology & Oncology — Chapter 104: Approach to the Patient With Anemia,"[""hematology"", ""anemia"", ""workup""]",3,"Here's an outline of the clinical approach to a patient with anemia:
+
+**Initial Evaluation Steps**
+
+1. History:
+	* Address risk factors for particular anemias (e.g., vegan diet, alcoholism)
+	* Symptoms of anemia itself
+	* Symptoms that reflect the underlying disorder (page=1056, chunk_id=4399)
+2. Examination: 
+	* Look for signs of blood loss or other underlying disorders
+3. Stool test for occult blood:
+	* To detect acute or chronic blood loss
+
+**Key Labs**
+
+1. If blood loss is not detected:
+	* Laboratory testing to determine whether anemia is due to deficient RBC production or excessive hemolysis (page=1056, chunk_id=4399)
+2. For macrocytic anemias:
+	* Serum folate and B12 levels (page=2802, chunk_id=11923)
+
+**Additional Steps**
+
+1. If tests are nondiagnostic and there is no response to empiric treatment:
+	* Consultation with a hematologist
+2. For severe constitutional symptoms or cardiopulmonary symptoms:
+	* Transfusion may be indicated","[{""page"": 1056, ""chunk_id"": 4399}, {""page"": 1057, ""chunk_id"": 4408}, {""page"": 2802, ""chunk_id"": 11923}]",21.985,2,1,
+q10,"Summarize the approach to a patient with pulmonary symptoms, including initial history, differential, and key tests.",,Pulmonary Disorders — Chapter 188: Approach to the Patient With Pulmonary Symptoms,"[""pulmonary"", ""approach"", ""diagnosis""]",3,"Here is a summary of the approach to a patient with pulmonary symptoms:
+
+**Initial History**
+
+* Establish whether symptoms such as dyspnea, chest pain, wheezing, stridor, hemoptysis, and cough are likely to be pulmonary in origin (page=2003, chunk_id=8432)
+* Focus on primary symptom and presence of constitutional symptoms like fever, weight loss, and night sweats
+* Gather information on occupational and environmental exposures, family history, travel history, contact history, previous illnesses, and use of medications
+
+**Differential Diagnosis**
+
+* Symptoms are usually nonspecific (page=2111, chunk_id=8906)
+* Common signs include tachypnea, reduced chest expansion, and bibasilar end-inspiratory dry crackles
+* Potential causes should be assessed systematically (page=2025, chunk_id=8519)
+
+**Key Tests**
+
+* Chest x-ray (page=2003, chunk_id=8432)
+* High-resolution CT (HRCT) (page=2111, chunk_id=8906)
+* Pulmonary function tests (page=2025, chunk_id=8519), including spirometry and pulse oximetry
+* Lung biopsy may be necessary in some cases
+
+**Additional Testing**
+
+* ABG analysis (see p. 1851) (page=2003, chunk_id=8432)
+* CT or other imaging tests (see p. 1860) (page=2003, chunk_id=8432)
+* Bronchoscopy (see p. 1862) (page=2003, chunk_id=8432)
+
+Note: The provided context does not include a comprehensive list of potential causes for pulmonary symptoms, but it mentions that clinicians, radiologists, and pathologists should exchange information to determine the diagnosis in individual patients.","[{""page"": 2003, ""chunk_id"": 8432}, {""page"": 2111, ""chunk_id"": 8906}, {""page"": 2025, ""chunk_id"": 8519}]",33.28,3,1,
